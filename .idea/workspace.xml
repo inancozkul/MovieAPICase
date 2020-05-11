@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bfcb92b-95f1-47ac-bd2c-2325bf7843be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bjGv5bcnDsEqg1lneEV2B7XVhP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/yaani-email-enterprise-web-ui-automation/Bireysel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="APITest.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MovieAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="APITest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.APITest.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bfcb92b-95f1-47ac-bd2c-2325bf7843be" name="Default Changelist" comment="" />
+      <created>1589138317016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589138317016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1589142109614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589142109614" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589138740489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589138740489" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589144573930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589144573930" />
+    <state width="1237" height="294" key="GridCell.Tab.0.bottom" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.0.center" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.0.left" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.0.right" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.1.bottom" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.1.center" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.1.left" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state width="1237" height="294" key="GridCell.Tab.1.right" timestamp="1589177612475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="294" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589177612475" />
+    <state x="189" y="0" key="Maven.ArtifactSearchDialog" timestamp="1589139135582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="189" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1589139135582" />
+    <state x="227" y="0" key="SettingsEditor" timestamp="1589140428724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="227" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589140428724" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1589142054767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589142054767" />
+  </component>
+</project>
