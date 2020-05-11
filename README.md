@@ -8,7 +8,7 @@ Gereksinimler
 * Maven
 
 1. Yöntem
-AppTest.java classını açtıktan sonra Run butonuna tıklayarak.
+* AppTest.java classını açtıktan sonra Run butonuna tıklayarak.
 
 2. API Key
 * API key=109b4779
